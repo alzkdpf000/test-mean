@@ -66,7 +66,8 @@
 
 ### [Back]
 
-<img width="1270" height="202" alt="Image" src="https://github.com/user-attachments/assets/c84bee74-2adb-4cb5-a066-10e1fe1b3e0e" />
+<img width="1148" height="279" alt="image" src="https://github.com/user-attachments/assets/d9009c8c-ede0-4215-9a3a-dd9a7ecee7f6" />
+
 
 <br>▶ 다이어리 페이지(웹)
 
