@@ -201,7 +201,7 @@ QA 테스트 문서를 작성하고 기능별 검증을 수행했습니다.
 
 ---
 
-## 📱 앱 전환 (React Query + WebView)
+## 📱 앱 전환 (React Native + WebView)
 -  **통합 구현 능력단위**에서 배운 API 통합 및 데이터 관리 기법을 활용하여
 React Native  기반의 WebView 환경을 구현했습니다.
 
